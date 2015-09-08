@@ -3,7 +3,7 @@ Tomorrow-Night-Syntax theme for Atom
 
 A theme for Atom based on the Tomorrow-night in [Tomorrow-theme](https://github.com/chriskempson/tomorrow-theme).
 
-![Tomorrow Night](https://github.com/kyoh86/tomorrow-night-syntax/raw/master/palette.png)
+![Tomorrow Night](https://github.com/kyoh86/tomorrow-evening-syntax/raw/master/palette.png)
 
 `#1d1f21` Background  
 `#282a2e` Current Line  
