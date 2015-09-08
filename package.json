@@ -1,0 +1,15 @@
+{
+  "name": "tomorrow-evening-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Tomorrow Night syntax theme for Atom",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/kyoh86/tomorrow-evening-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
