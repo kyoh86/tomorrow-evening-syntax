@@ -309,3 +309,17 @@ atom-text-editor[mini] .scroll-view,
 :host([mini]) .scroll-view {
   padding-left: 1px;
 }
+
+atom-text-editor::shadow {
+  .gutter .cursor-line {
+    background-color: fade(@red, 23%);
+  }
+  .highlights {
+    .selection .region {
+      background: fade(@red, 40%);
+    }
+    .find-result .region {
+      border: 1px solid @red;
+    }
+  }
+}
